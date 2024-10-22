@@ -1,5 +1,5 @@
 
-## Olá! Eu sou o Joilson Martins! 🖐🏼
+## 👋🏼 Olá! Eu sou o Joilson Martins!
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joilsonmartins@gmail.com)
