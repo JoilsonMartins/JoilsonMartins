@@ -6,27 +6,22 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joilson)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jm_excel)
 
-- 🎓 Técnico em processamento de dados e graduando em Telemática (IFCE). 
-- 💻 Trabalha com análise de dados, desenvolvendo relatórios e painéis de indicadores para municiar áreas da empresa com informações gerenciais e operacioanais, dando suporte as tomadas de decisões.
-- 🪪 Microsoft Certified Professional, Microsoft Office Specialist: Microsoft Excel Expert
-- 📊 Ministra treinamentos em Microsoft Excel
-- 😎 Apaixonado por tecnologia e educação
+- 🎓 **Técnico em Processamento de Dados e Graduando em Telemática** (IFCE).
+- 💻 **Experiência em Análise de Dados**: Desenvolve relatórios e painéis de indicadores para fornecer informações gerenciais e operacionais, apoiando a tomada de decisões nas diversas áreas da empresa.
+- ✔ **Certificações**: Microsoft Certified Professional e Microsoft Office Specialist: Microsoft Excel Expert.
+- 👨🏽‍🏫 **Instrutor de Treinamentos**: Especializado em Microsoft Excel, capacitando equipes para otimizar o uso da ferramenta.
+- 😎 **Paixão por Tecnologia e Educação**: Comprometido em promover o aprendizado e a inovação.
+
 
 ![Joilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=joilsonmartins&show_icons=true&theme=merko)
 
-
-## Tecnologias que uso no meu dia
-
-<div style="display: inline_block"></br>
-    <img align="center" alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    <img align="center" alt="Microsoft Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</div>
 
 </br>
 
 ## Tecnologias que estudo
 
 <div style="display: inline_block"></br>
+    <img align="center" alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
     <img align="center" alt="Microsoft Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
     <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
     <img align="center" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
