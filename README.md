@@ -6,11 +6,11 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joilson)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jm_excel)
 
-- 🎓 **Técnico em Processamento de Dados e Graduando em Telemática** (IFCE).
-- 💻 **Experiência em Análise de Dados**: Desenvolve relatórios e painéis de indicadores para fornecer informações gerenciais e operacionais, apoiando a tomada de decisões nas diversas áreas da empresa.
-- ✔ **Certificações**: Microsoft Certified Professional e Microsoft Office Specialist: Microsoft Excel Expert.
-- 👨🏽‍🏫 **Instrutor de Treinamentos**: Especializado em Microsoft Excel, capacitando equipes para otimizar o uso da ferramenta.
-- 😎 **Paixão por Tecnologia e Educação**: Comprometido em promover o aprendizado e a inovação.
+- 🎓 **Formação** Técnico em Processamento de Dados e Graduando em Telemática (IFCE).
+- 💻 **Análise de Dados**: Especialista no desenvolvimento de relatórios e painéis de indicadores para suporte à decisão estratégica e operacional.
+- 📜 **Certificações**: Microsoft Certified Professional e Microsoft Office Specialist: Excel Expert.
+- 👨🏽‍🏫 **Treinamento & Desenvolvimento**: Instrutor especializado em Microsoft Excel, focado na capacitação de pessoas através de métodos práticos, visando a otimização do uso da ferramenta e aumento da produtividade.
+- 🚀 **Foco**: Entusiasta de tecnologia e educação, comprometido com a inovação e o aprendizado contínuo.
 
 
 ![Joilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=joilsonmartins&show_icons=true&theme=merko)
